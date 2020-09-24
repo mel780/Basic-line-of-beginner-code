@@ -1,2 +1,4 @@
-# Basic-line-of-beginner-code
-This is a basic line of code for beginners
+stroke [color]
+Fill [color]
+rect [x, y]
+More code coming soon
